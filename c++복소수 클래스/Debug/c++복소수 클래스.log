@@ -1,0 +1,5 @@
+﻿  c++복소수 클래스.cpp
+C:\Users\jcjin\Desktop\C++\c++복소수 클래스\c++복소수 클래스.cpp(189,28): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jcjin\Desktop\C++\c++복소수 클래스\c++복소수 클래스.cpp(191,32): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jcjin\Desktop\C++\c++복소수 클래스\c++복소수 클래스.cpp(193,36): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  c++복소수 클래스.vcxproj -> C:\Users\jcjin\Desktop\C++\c++복소수 클래스\Debug\c++복소수 클래스.exe

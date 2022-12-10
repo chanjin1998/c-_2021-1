@@ -1,0 +1,6 @@
+﻿  c++집합연산.cpp
+C:\Users\jcjin\Desktop\C++\c++집합연산\c++집합연산.cpp(60,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jcjin\Desktop\C++\c++집합연산\c++집합연산.cpp(63,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jcjin\Desktop\C++\c++집합연산\c++집합연산.cpp(65,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jcjin\Desktop\C++\c++집합연산\c++집합연산.cpp(76,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  c++집합연산.vcxproj -> C:\Users\jcjin\Desktop\C++\c++집합연산\Debug\c++집합연산.exe

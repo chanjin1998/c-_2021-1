@@ -1,0 +1,5 @@
+﻿  c++4.29 실습.cpp
+C:\Users\jcjin\Desktop\C++\c++4.29 실습\c++4.29 실습.cpp(92,1): error C2059: 구문 오류: '}'
+C:\Users\jcjin\Desktop\C++\c++4.29 실습\c++4.29 실습.cpp(92,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Users\jcjin\Desktop\C++\c++4.29 실습\c++4.29 실습.cpp(93,34): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\jcjin\Desktop\C++\c++4.29 실습\c++4.29 실습.cpp(93,34): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?

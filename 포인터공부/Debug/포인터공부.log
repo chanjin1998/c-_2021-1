@@ -1,0 +1,3 @@
+﻿  포인터공부.cpp
+C:\Users\jcjin\source\repos\포인터공부\포인터공부.cpp(11,14): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  포인터공부.vcxproj -> C:\Users\jcjin\source\repos\포인터공부\Debug\포인터공부.exe

@@ -1,0 +1,3 @@
+﻿kvec.obj : error LNK2019: "public: __cdecl Kvector::Kvector(int,int)" (??0Kvector@@QEAA@HH@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+kvec.obj : error LNK2019: "public: __cdecl Kvector::Kvector(class Kvector const &)" (??0Kvector@@QEAA@AEBV0@@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\jcjin\Desktop\C++\kvec\x64\Debug\kvec.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.

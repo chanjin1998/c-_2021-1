@@ -1,0 +1,4 @@
+﻿  c++호텔.cpp
+C:\Users\jcjin\Desktop\C++\c++호텔\c++호텔.cpp(27,24): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\jcjin\Desktop\C++\c++호텔\c++호텔.cpp(19): warning C4715: 'primeNum': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  c++호텔.vcxproj -> C:\Users\jcjin\Desktop\C++\c++호텔\Debug\c++호텔.exe
